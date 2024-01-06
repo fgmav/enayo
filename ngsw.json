@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1704570267780,
+  "index": "/enayo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/enayo/assets/caveat-brush-v11-latin-regular.woff2",
+        "/enayo/assets/expand_circle_up.svg",
+        "/enayo/assets/favicon.ico",
+        "/enayo/assets/forest.svg",
+        "/enayo/assets/icons/icon-512x512.png",
+        "/enayo/index.html",
+        "/enayo/main-KEJSRYEW.js",
+        "/enayo/manifest.webmanifest",
+        "/enayo/media/MaterialIcons-Regular-3OCSKOJA.woff",
+        "/enayo/media/MaterialIcons-Regular-DFX2JKJN.ttf",
+        "/enayo/media/MaterialIcons-Regular-P2RAEPXM.woff2",
+        "/enayo/media/caveat-brush-v11-latin-regular-BL7OCWND.woff2",
+        "/enayo/media/expand_circle_up-VYKIEOI3.svg",
+        "/enayo/polyfills-LZBJRJJE.js",
+        "/enayo/styles-SCBR7QPQ.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/enayo/assets/caveat-brush-v11-latin-regular.woff2": "9410c0935bdd2b67ade9a2d87fb97dbc7dc01242",
+    "/enayo/assets/expand_circle_up.svg": "968a45e43d58313b1be34305f96353ddc8547e9b",
+    "/enayo/assets/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/enayo/assets/forest.svg": "3cc9aed2404633d888c4c277ec08de4cddbc7870",
+    "/enayo/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/enayo/index.html": "531657f0377a7b146bfb1b99bfb153f0f0f6a35d",
+    "/enayo/main-KEJSRYEW.js": "19da488efff9ccf4447366e31f0912e6c8183a97",
+    "/enayo/manifest.webmanifest": "445847bf3d00ce39db50552714ed22bdd95ed5e5",
+    "/enayo/media/MaterialIcons-Regular-3OCSKOJA.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/enayo/media/MaterialIcons-Regular-DFX2JKJN.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/enayo/media/MaterialIcons-Regular-P2RAEPXM.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/enayo/media/caveat-brush-v11-latin-regular-BL7OCWND.woff2": "9410c0935bdd2b67ade9a2d87fb97dbc7dc01242",
+    "/enayo/media/expand_circle_up-VYKIEOI3.svg": "968a45e43d58313b1be34305f96353ddc8547e9b",
+    "/enayo/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
+    "/enayo/styles-SCBR7QPQ.css": "77db61e48845f867e7b46e70d4cf5aa142e61fc8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

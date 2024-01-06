@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Enayo - Lebe deine Energie",
+  "short_name": "Enayo",
+  "theme_color": "#4A148C",
+  "background_color": "#4A148C",
+  "display": "minimal-ui",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
