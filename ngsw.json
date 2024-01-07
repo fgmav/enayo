@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1704570267780,
+  "timestamp": 1704618635622,
   "index": "/enayo/index.html",
   "assetGroups": [
     {
@@ -16,8 +16,9 @@
         "/enayo/assets/favicon.ico",
         "/enayo/assets/forest.svg",
         "/enayo/assets/icons/icon-512x512.png",
+        "/enayo/assets/icons/maskable_icon_512x512.png",
         "/enayo/index.html",
-        "/enayo/main-KEJSRYEW.js",
+        "/enayo/main-JCL4BXKH.js",
         "/enayo/manifest.webmanifest",
         "/enayo/media/MaterialIcons-Regular-3OCSKOJA.woff",
         "/enayo/media/MaterialIcons-Regular-DFX2JKJN.ttf",
@@ -25,7 +26,7 @@
         "/enayo/media/caveat-brush-v11-latin-regular-BL7OCWND.woff2",
         "/enayo/media/expand_circle_up-VYKIEOI3.svg",
         "/enayo/polyfills-LZBJRJJE.js",
-        "/enayo/styles-SCBR7QPQ.css"
+        "/enayo/styles-PKWFL3KC.css"
       ],
       "patterns": []
     },
@@ -47,16 +48,17 @@
     "/enayo/assets/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/enayo/assets/forest.svg": "3cc9aed2404633d888c4c277ec08de4cddbc7870",
     "/enayo/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/enayo/index.html": "531657f0377a7b146bfb1b99bfb153f0f0f6a35d",
-    "/enayo/main-KEJSRYEW.js": "19da488efff9ccf4447366e31f0912e6c8183a97",
-    "/enayo/manifest.webmanifest": "445847bf3d00ce39db50552714ed22bdd95ed5e5",
+    "/enayo/assets/icons/maskable_icon_512x512.png": "3de5f262b4ab8bccc74bccd39eb5c4594c7001ea",
+    "/enayo/index.html": "d7a18c1afc7ddb9ed4a9d378136f03567aba1df6",
+    "/enayo/main-JCL4BXKH.js": "11c5dca85fc9067533171bc674f2ec4ad6c26ebd",
+    "/enayo/manifest.webmanifest": "d5592e4ed9d63b49d8c9d073d531ee7002b17c22",
     "/enayo/media/MaterialIcons-Regular-3OCSKOJA.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
     "/enayo/media/MaterialIcons-Regular-DFX2JKJN.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
     "/enayo/media/MaterialIcons-Regular-P2RAEPXM.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
     "/enayo/media/caveat-brush-v11-latin-regular-BL7OCWND.woff2": "9410c0935bdd2b67ade9a2d87fb97dbc7dc01242",
     "/enayo/media/expand_circle_up-VYKIEOI3.svg": "968a45e43d58313b1be34305f96353ddc8547e9b",
     "/enayo/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
-    "/enayo/styles-SCBR7QPQ.css": "77db61e48845f867e7b46e70d4cf5aa142e61fc8"
+    "/enayo/styles-PKWFL3KC.css": "0959d3ee664a492ee6cebe2d7edd6dc4d28c20da"
   },
   "navigationUrls": [
     {
